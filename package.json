@@ -28,7 +28,8 @@
   "homepage": "https://github.com/4nkit-5hukla/gatsby-instagram",
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "gatsby-instagram"
   ],
   "license": "MIT",
   "peerDependencies": {
